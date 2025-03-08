@@ -1,3 +1,3 @@
 void srednia(){
-	srednia = ((a*2)+(b*3)+c)/3
+	srednia = ((a*4)+(b*5)+c)/3
 }
